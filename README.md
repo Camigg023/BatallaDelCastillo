@@ -23,9 +23,3 @@ El sistema almacena y procesa estos mensajes, reconstruyéndolos de manera autom
 Los casos de uso incluyen registrar mensajes, actualizar posiciones de pilares y calcular triangulaciones dinámicas.
 La información procesada puede consultarse mediante solicitudes al sistema, como obtener datos de pilares, reconstruir mensajes o calcular posiciones trianguladas.
 
-Beneficios
-
-Facilita la coordinación táctica en escenarios complejos.
-Reduce errores en la transmisión de información entre los pilares.
-Permite tomar decisiones rápidas basadas en información precisa.
-Integra una base de datos confiable para mantener el historial de mensajes y posiciones.
