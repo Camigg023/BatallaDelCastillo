@@ -11,10 +11,10 @@ El proyecto consiste en un sistema de coordinación estratégica para el Cuerpo 
 
 El sistema permite:
 
-Registrar y actualizar la posición de los pilares en el campo de batalla.
-Registrar mensajes tácticos fragmentados enviados desde los pilares.
-Reconstruir mensajes completos a partir de fragmentos.
-Calcular posiciones trianguladas para determinar ubicaciones exactas de eventos o amenazas.
+**Registrar y actualizar la posición de los pilares en el campo de batalla.**
+**Registrar mensajes tácticos fragmentados enviados desde los pilares.**
+**Reconstruir mensajes completos a partir de fragmentos.**
+**Calcular posiciones trianguladas para determinar ubicaciones exactas de eventos o amenazas.**
 
 Funcionamiento
 
