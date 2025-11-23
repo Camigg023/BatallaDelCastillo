@@ -16,7 +16,7 @@ El sistema permite:
 **Reconstruir mensajes completos a partir de fragmentos.**
 **Calcular posiciones trianguladas para determinar ubicaciones exactas de eventos o amenazas.**
 
-Funcionamiento
+Funcionamiento:
 
 Los pilares envían mensajes al sistema, que pueden llegar fragmentados.
 El sistema almacena y procesa estos mensajes, reconstruyéndolos de manera automática para garantizar información coherente.
