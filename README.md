@@ -5,7 +5,7 @@ Sistema de coordinacion estrategica del cuerpo de cazadores
 **Por:** Camila Gómez Gómez  
 **Tecnologías utilizadas:** Java · Spring Boot · MySQL · NetBeans
 
-Descripción del proyecto
+Descripción del proyecto:
 
 El proyecto consiste en un sistema de coordinación estratégica para el Cuerpo de Cazadores durante la Batalla del Castillo Infinito. Su objetivo principal es gestionar y procesar información táctica proveniente de los pilares, permitiendo la toma de decisiones eficiente en tiempo real.
 
