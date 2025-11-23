@@ -27,7 +27,5 @@ Beneficios
 
 Facilita la coordinación táctica en escenarios complejos.
 Reduce errores en la transmisión de información entre los pilares.
-
 Permite tomar decisiones rápidas basadas en información precisa.
-
 Integra una base de datos confiable para mantener el historial de mensajes y posiciones.
